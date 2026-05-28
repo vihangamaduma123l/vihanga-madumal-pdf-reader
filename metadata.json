@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Vihanga Madumal PDF Reader",
+  "description": "Accessible AI-powered PDF Reader designed for visually impaired users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
